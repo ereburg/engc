@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'MuseoSans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('MuseoSans Regular'), local('MuseoSans-Regular'), url(../fonts/MuseoSans/Regular.woff) format("woff");
+}
+
+@font-face {
+  font-family: 'MuseoSans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local('MuseoSans Medium'), local('MuseoSans-Medium'), url(../fonts/MuseoSans/Medium.woff) format("woff");
+}
+
+@font-face {
+  font-family: 'MuseoSans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('MuseoSans Bold'), local('MuseoSans-Bold'), url(../fonts/MuseoSans/Bold.woff) format("woff");
+}
+
+@font-face {
+  font-family: 'MuseoSans';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: local('MuseoSans Black'), local('MuseoSans-Black'), url(../fonts/MuseoSans/Black.woff) format("woff");
+}

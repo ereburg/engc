@@ -1,0 +1,7 @@
+@import "~normalize.css";
+@import "~nprogress/nprogress.css";
+@import "~swiper/css/swiper.min.css";
+@import "~react-day-picker/lib/style.css";
+
+@import "./fonts.css";
+@import "./global.css";

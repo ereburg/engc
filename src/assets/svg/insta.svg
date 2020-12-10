@@ -1,0 +1,31 @@
+<svg width="21" height="21" x="474" y="502" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="50%" y1="99.709%" x2="50%" y2=".777%" id="d">
+      <stop stop-color="#E09B3D" offset="0%"/>
+      <stop stop-color="#C74C4D" offset="30%"/>
+      <stop stop-color="#C21975" offset="60%"/>
+      <stop stop-color="#7024C4" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="50%" y1="146.098%" x2="50%" y2="-45.16%" id="e">
+      <stop stop-color="#E09B3D" offset="0%"/>
+      <stop stop-color="#C74C4D" offset="30%"/>
+      <stop stop-color="#C21975" offset="60%"/>
+      <stop stop-color="#7024C4" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="50%" y1="658.153%" x2="50%" y2="-140.038%" id="f">
+      <stop stop-color="#E09B3D" offset="0%"/>
+      <stop stop-color="#C74C4D" offset="30%"/>
+      <stop stop-color="#C21975" offset="60%"/>
+      <stop stop-color="#7024C4" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path
+      d="M14.718 0H6.245A6.252 6.252 0 0 0 0 6.245v8.473a6.252 6.252 0 0 0 6.245 6.245h8.473a6.252 6.252 0 0 0 6.245-6.245V6.245A6.252 6.252 0 0 0 14.718 0zm4.136 14.718a4.136 4.136 0 0 1-4.136 4.136H6.245a4.136 4.136 0 0 1-4.136-4.136V6.245A4.136 4.136 0 0 1 6.245 2.11h8.473a4.136 4.136 0 0 1 4.136 4.136v8.473z"
+      fill="url(#d)"/>
+    <path
+      d="M10.482 5.06a5.428 5.428 0 0 0-5.422 5.422 5.428 5.428 0 0 0 5.422 5.421 5.428 5.428 0 0 0 5.421-5.421 5.428 5.428 0 0 0-5.421-5.422zm0 8.735a3.313 3.313 0 1 1 0-6.626 3.313 3.313 0 0 1 0 6.626z"
+      fill="url(#e)"/>
+    <circle fill="url(#f)" cx="15.914" cy="5.101" r="1.299"/>
+  </g>
+</svg>
